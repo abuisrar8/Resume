@@ -1,0 +1,27 @@
+{
+    "Name": "Abu Israr",
+    "Contact Information": {
+        "Phone": "8628984385",
+        "Email": "abu.israr.khan.9@gmail.com",
+        "LinkedIn": "linkedin.com/in/Abu-Israr/",
+        "GitHub": "github.com/abuisrar8"
+    },
+    "Education": [
+        "1. M-Tech in Data Science and Analytics from Lovely Professional University, Punjab (2023-), CGPA: 8.1.",
+        "2. B-Tech in Computer Science and Engineering from Lovely Professional University, Punjab (2018-2022), CGPA: 7.21."
+    ],
+    "Work Experience": [
+        "- Data Science Intern at Oasis InfoByte (Jun 2024 - Aug 2024). Worked on machine learning projects like iris flower classification, spam email detection, and sales/car price prediction. Skills gained include predictive analytics, data application, feature engineering, Python, and remote collaboration."
+    ],
+    "Projects": [
+        "1. Daily Routine Predictor (Mar 2024) - Machine learning model to predict current workload based on historical data. Technologies: Python, Machine Learning Libraries.",
+        "2. Accent Access (May 2022) - Educational platform for learning English accents using text-to-speech and JSON. Technologies: Text-to-Speech API, JSON, Web Development Frameworks."
+    ],
+    "Skills": [],
+    "Certifications": [
+        "1. Getting and Cleaning Data (May 2024) - Coursera.",
+        "2. Introduction to Big Data (May 2024) - Coursera.",
+        "3. Machine Learning With Big Data (May 2024) - Coursera.",
+        "4. DSA-Self Paced with Doubt Assistance (Aug 2022) - GeeksforGeeks."
+    ]
+}
