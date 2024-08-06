@@ -1,0 +1,95 @@
+{
+    "personal_information": {
+      "name": "Abu Israr",
+      "linkedin": "https://www.linkedin.com/in/Abu-Israr/",
+      "email": "abu.israr.khan.9@gmail.com",
+      "github": "https://github.com/abuisrar8",
+      "mobile": "+91-8628984385"
+    },
+    "skills": {
+      "languages": ["C++", "Python", "Java", "R", "Rust"],
+      "frameworks": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly", "Scikit-learn", "Apache Spark", "Hadoop"],
+      "tools_platforms": ["Power BI", "Excel", "SQL", "Jupyter Notebooks", "Git", "VS Code", "RStudio", "AWS"],
+      "soft_skills": ["Analytical Thinking", "Problem-Solving", "Time Management", "Critical Thinking", "Creativity"]
+    },
+    "experience": {
+      "internships": [
+        {
+          "company": "Oasis Infobyte",
+          "duration": "June 23 – August 23",
+          "role": "Data Science Intern",
+          "description": "Gained hands-on experience in applying machine learning techniques to solve real-world problems, enhancing skills in predictive analytics, data application, and remote collaboration using Python and various ML libraries.",
+          "key_learnings": ["Data application in real-world problems", "Predictive analytics", "Remote collaboration"],
+          "technologies_used": ["Python", "Machine Learning Libraries"]
+        }
+      ]
+    },
+    "projects": [
+      {
+        "title": "Oasis Infobyte – Project Assignment",
+        "duration": "June 23 – August 23",
+        "details": [
+          "Iris Data Classification: Applied supervised learning to classify iris flower species.",
+          "Spam Email Detection: Developed algorithms to detect and filter spam emails.",
+          "Sales Price Prediction: Predicted sales prices using data analysis and market trends.",
+          "Car Price Prediction: Used feature engineering and predictive modeling to determine vehicle values."
+        ],
+        "technologies_used": ["Python", "Machine Learning Libraries", "Data science techniques"]
+      },
+      {
+        "title": "Daily Routine Predictor",
+        "duration": "3 months",
+        "description": "Developed a machine learning model to predict current workload based on historical daily routine data. This tool has potential applications in personal productivity, workforce management, and healthcare.",
+        "technologies_used": ["Python", "Machine Learning Libraries"]
+      }
+    ],
+    "certificates": [
+      {
+        "title": "Getting and Cleaning Data",
+        "issuer": "Johns Hopkins University (Coursera)",
+        "date": "May 2024"
+      },
+      {
+        "title": "Introduction to Big Data",
+        "issuer": "University of California San Diego (Coursera)",
+        "date": "May 2024"
+      },
+      {
+        "title": "Machine Learning With Big Data",
+        "issuer": "University of California San Diego (Coursera)",
+        "date": "May 2024"
+      },
+      {
+        "title": "DSA-Self Paced with Doubt Assistance",
+        "issuer": "GeeksforGeeks",
+        "duration": "8 Weeks"
+      }
+    ],
+    "publications_achievements": [
+      {
+        "title": "Analysis of the factors influencing Indian English accents, and how pronunciation and articulation fill the accent gap",
+        "publication": "EPRA International Journal of Environmental Economics, Commerce and Educational Management (ECEM)",
+        "year": 2022
+      },
+      {
+        "title": "One India One World"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master of Technology – Data Science and Analytics",
+        "institution": "Lovely Professional University",
+        "location": "Punjab, India",
+        "cgpa": 8.10,
+        "duration": "Since August 2023"
+      },
+      {
+        "degree": "Bachelor of Technology - Computer Science and Engineering",
+        "institution": "Lovely Professional University",
+        "location": "Punjab, India",
+        "cgpa": 7.21,
+        "duration": "2018-2022"
+      }
+    ]
+  }
+  
